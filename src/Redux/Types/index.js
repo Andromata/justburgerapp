@@ -1,0 +1,4 @@
+export const SET_ACTIVE_CHECKBOX = "SET_SEARCH_PRODUCTS";
+export const SET_AUTOSLIDE = "SET_AUTOSLIDE";
+
+export const SET_SECTION = "SET_SECTION";

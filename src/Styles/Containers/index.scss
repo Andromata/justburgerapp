@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: var(--body-font);
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #fff;
+  color: #6d7278;
+  height: auto;
+  margin: auto;
+  padding: 0;
+}
+
+:root {
+  --brand-primary: #e80230;
+  --brand-secondary: #fcc100;
+  --brand-primary-rgb: 161, 26, 40;
+  --brand-secondary-rgb: 114, 1, 13;
+  --swiper-pagination-color: #ffffff;
+  --swiper-theme-color: #ffffff;
+  --body-font: Quicksand;
+  --category-bar-font: Poppins;
+  --subtitle-font: Quicksand;
+  --title-font: Poppins;
+  --equalizer-black: #717171;
+  --equalizer-grey: #999;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+label,
+input,
+a,
+button,
+select,
+textarea {
+  color: var(--equalizer-black);
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  margin: 0;
+  &:focus {
+    outline: none;
+  }
+}
+
+input,
+select,
+textarea,
+button {
+  border: 0;
+  border-radius: 0;
+}
+
+button {
+  background: transparent;
+  cursor: pointer;
+  border-radius: 0px;
+  margin: 10px 0;
+  padding: 15px;
+  user-select: none;
+}
+
+button::-moz-focus-inner {
+  border: 0;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+
+  &:focus,
+  &:active {
+    color: var(--equalizer-black);
+    text-decoration: none;
+  }
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  .end {
+    justify-content: flex-end;
+  }
+  .center {
+    justify-content: center;
+  }
+  .middle {
+    align-items: center;
+  }
+  .space-around{
+    justify-content: space-around;
+  }
+}
+
+.row.space-between {
+  justify-content: space-between;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  .end{
+    align-items: end;
+  }
+  .center {
+    align-items: center;
+  }
+  .middle {
+    justify-content: center;
+  }
+}
+
+.full-width{
+  width: 100%;
+}

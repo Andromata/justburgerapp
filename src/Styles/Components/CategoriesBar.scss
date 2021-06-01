@@ -1,0 +1,45 @@
+.categoriesbar-container {
+  left: auto;
+position: sticky;
+right: auto;
+top: 60px;
+z-index: 3;
+width: 100%;
+  .categoryBar {
+    align-items: center;
+    background: #fff;
+    box-shadow: 0 6px 7px rgba(0, 0, 0, 0.11);
+    display: flex;
+    overflow-x: auto;
+    padding: 10px;
+    width: 100%;
+    justify-content: space-around;
+    .btn-category {
+      align-items: center;
+      border-bottom: 2px solid black transparent;
+      -webkit-box-align: center;
+      -webkit-box-pack: center;
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      padding: 10px 10px 15px;
+      transition: all 0.29s cubic-bezier(0.79, 0.01, 0.375, 0.995);
+      white-space: nowrap;
+      width: auto;
+      font-family: var(--category-bar-font);
+      color: var(--equalizer-black);
+      line-height: 17px;
+      text-align: center;
+      font-size: 14px;
+      font-weight: 300
+      
+    }
+    .btn-category.active{
+        border-bottom: 2px solid var(--brand-secondary);
+        color: #555454;
+        font-weight: 600;
+        font-size: 14px;
+    }
+  }
+}
+

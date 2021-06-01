@@ -1,0 +1,315 @@
+[ {
+    "category": "Just Promos ",
+    "icon": " ❤️",
+    "backgroundimg":"",
+    "products": [
+        {
+            "id": 35,
+            "name": "Combo Just Classic Simple",
+            "description": "Just Classic (Carne de 135 Gr., Queso Cheddar, Tomate, Lechuga, Pepinillos y Just Sauce), Just Small Fries y Bebida.",
+            "price": "$6.500",
+            "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/just_classic__papas_fritas__coca_cola_zero_2400x_1600_1616515211.jpg"
+        },
+        {
+            "id": 36,
+            "name": "Combo Just Bacon Doble",
+            "description": "Just Bacon (Doble Carne de 135 Gr., Doble Fondue de Mozzarella, Rúcula, Bacon, Champiñones, Cebolla Crispy, Aioli y Honey Mustard Sauce), Just Small Fries y Bebida.",
+            "price": "$8.300",
+            "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/2400x1600_just_bacon_doble__just_small_fries__bebida_1617281565.jpg"
+        },
+        {
+            "id": 37,
+            "name": "2 Combos Just Classic Simple",
+            "description": "2 Just Classic + 2 Just Small Fries + 2 Bebidas a elección",
+            "price": "$12.000",
+            "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/bbq_doble_1619712056.jpg"
+        }
+    ]
+},
+    {
+        "category": "Burgers Simples ",
+        "icon": "🍔",
+        "backgroundimg": "",
+        "products": [
+            {
+                "id": 1,
+                "name": "Just Cheese B",
+                "description": "135 Gr . Carne, Queso Cheddar y Just Sauce.",
+                "price": "$4.100",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/cheese_burger_1619711531.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Just Classic",
+                "description": "135 Gr. Carne, Tomate, Lechuga, Queso Cheddar, Pepinillos y Just Sauce",
+                "price": "$4.700",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/classic_1619711429.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Just BBQ",
+                "description": "135 Gr. Carne, Queso Cheddar, Tocino, Cebolla Grillada, Cebolla Crispy, Aioli y BBQ Sauce.",
+                "price": "$5.000",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/bbq_1619711562.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Just Spicy",
+                "description": "135 Gr. Carne, Tomate, Rúcula, Queso Cheddar, Cebolla Crispy, Jalapeño y Mayo Sriracha Sauce.",
+                "price": "$5.400",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/spicy_1619711588.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Just Apple Blue",
+                "description": "135 Gr. Carne, Fondue de Queso Azul, Cebolla Crispy, Manzana Grillada, Rúcula, Aioli y Honey Mustard Sauce.",
+                "price": "$5.800",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/apple_blue_1619711618.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Just Bacon",
+                "description": "135 Gr. Carne, Rúcula, Bacon, Fondue de Mozzarella, Champiñones, Cebolla Crispy, Aioli y Honey Mustard Sauce.",
+                "price": "$5.800",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/bacon_1619711647.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Burgers Dobles ",
+        "icon": "😱",
+        "backgroundimg":"https://cdn.mer-cat.com/justburger/img/banners/1200x350_mesa_de_trabajo_1_1617986008.jpg",
+        "products": [
+            {
+                "id": 7,
+                "name": "Just Cheese B Doble",
+                "description": "Doble Carne de 135 Gr., Doble Queso Cheddar y Just Sauce.",
+                "price": "$5.300",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/cheese_b_doble_1619711992.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Just Classic Doble",
+                "description": "Doble Carne de 135 Gr. Doble Queso Cheddar, Tomate, Lechuga, Pepinillos y Just Sauce.",
+                "price": "$5.900",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/_classsic_doble_1619712024.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Just BBQ Doble",
+                "description": "Doble Carne de 135 Gr., Doble Queso Cheddar, Tocino, Cebolla Grillada, Cebolla Crispy, Aioli y BBQ Sauce.",
+                "price": "$6.200",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/bbq_doble_1619712056.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Just Spicy Doble",
+                "description": "Doble Carne de 135 Gr., Doble Queso Cheddar, Tomate, Rúcula, Cebolla Crispy, Jalapeño y Mayo Sriracha Sauce. ",
+                "price": "$6.600",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/spicy_doble_1619712094.jpg"
+            },
+            {
+                "id": 11,
+                "name": "Just Apple Blue Doble",
+                "description": "Doble Carne de 135 Gr., Doble Fondue de Queso Azul, Cebolla Crispy, Manzana Grillada, Rúcula, Aioli y Honey Mustard Sauce.",
+                "price": "$7.000",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/apple_blue_1619711618.jpg"
+            },
+            {
+                "id": 12,
+                "name": "Just Bacon Doble",
+                "description": "Doble Carne de 135 Gr., Doble Fondue de Mozzarella, Bacon, Rúcula, Champiñones, Cebolla Crispy, Aioli y Honey Mustard Sauce.",
+                "price": "$7.000",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/bacon_1619711647.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Sides ",
+        "icon": "🍟",
+        "backgroundimg":"",
+        "products": [
+            {
+                "id": 13,
+                "name": "Just Fries",
+                "description": "Exquisitas Papas Fritas con exterior crujiente e interior suave.",
+                "price": "$1.200",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/papafrita_1619803297.jpg"
+            },
+            {
+                "id": 14,
+                "name": "Just Cheddar Fries",
+                "description": "Crujientes Papas Fritas con Exquisita Salsa de Queso Cheddar derretido y Topping de Crispy Bacon.",
+                "price": "$2.900",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/cheddar_1619803323.jpg"
+            },
+            {
+                "id": 15,
+                "name": "Just Onion Rings",
+                "description": "Dulces aros de cebolla apanados.",
+                "price": "$3.200",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/bbq_doble_1619712056.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Drinks ",
+        "icon": " 🥤",
+        "backgroundimg":"",
+        "products": [
+            {
+                "id": 16,
+                "name": "Coca-Cola",
+                "description": "350 cc",
+                "price": "$1.100",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/cocacolanormal_1619800276.jpg"
+            },
+            {
+                "id": 17,
+                "name": "Coca-Cola Sin Azúcar",
+                "description": "350 cc",
+                "price": "$1.100",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/cocacolazero_1619800312.jpg"
+            },
+            {
+                "id": 18,
+                "name": "Coca-Cola Ligth",
+                "description": "350 cc",
+                "price": "$1.100",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/cocacolalight_1619800512.jpg"
+            },
+            {
+                "id": 19,
+                "name": "Sprite",
+                "description": "350 cc",
+                "price": "$1.100",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/sprite_1619800362.jpg"
+            },
+            {
+                "id": 20,
+                "name": "Sprite Zero",
+                "description": "350 cc",
+                "price": "$1.100",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/spritezero_1619800400.jpg"
+            },
+            {
+                "id": 21,
+                "name": "Fanta",
+                "description": "350 cc",
+                "price": "$1.100",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/fanta_1619800446.jpg"
+            },
+            {
+                "id": 22,
+                "name": "Fanta Sin Azúcar",
+                "description": "350 cc",
+                "price": "$1.100",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/fantazero_1619800469.jpg"
+            },
+            {
+                "id": 23,
+                "name": "Agua sin Gas Benedictino",
+                "description": "500 cc",
+                "price": "$1.300",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/spritezero_1619800400.jpg"
+            },
+            {
+                "id": 24,
+                "name": "Agua con Gas Benedictino",
+                "description": "500 cc",
+                "price": "$1.300",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/amcg_1619800222.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Sauces ",
+        "icon": "",
+        "backgroundimg":"",
+        "products": [
+            {
+                "id": 25,
+                "name": "Ketchup",
+                "description": "Salsa a base de tomate, azúcar, vinagre y algunas especias.",
+                "price": "$400",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/ketchup_1616599228.jpg"
+            },
+            {
+                "id": 26,
+                "name": "Just Sauce",
+                "description": "Salsa a base de Mayonesa con parte de Ketchup, Miel, Pepinillo picado, Mostaza Dijon y Especias.",
+                "price": "$400",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/justsauce_1616599109.jpg"
+            },
+            {
+                "id": 27,
+                "name": "Smoked BBQ Sauce",
+                "description": "Salsa agridulce en base a tomates asados con azúcar rubia y vinagre de sidra de manzana.",
+                "price": "$400",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/justsauce_1616599109.jpg"
+            },
+            {
+                "id": 28,
+                "name": "Honey Mustard Sauce",
+                "description": "Salsa a base de Mayonesa, Mostaza dijon, Jugo de pepinillo y Miel.",
+                "price": "$400",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/honeymustard_1616599181.jpg"
+            },
+            {
+                "id": 29,
+                "name": "Mayo Sriracha Sauce",
+                "description": "Salsa picante a base de Mayonesa y Salsa Sriracha, Miel, Jugo de pepinillo y Mostaza Dijon.",
+                "price": "$400",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/mayosriracha_1616599206.jpg"
+            },
+            {
+                "id": 30,
+                "name": "Aioli Sauce",
+                "description": "Salsa a base de Mayonesa, Ajo y Cebolla en polvo, Jugo de pepinillo y Miel.",
+                "price": "$400",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/aioli_1616599157.jpg"
+            },
+            {
+                "id": 31,
+                "name": "Just Cheddar Sauce",
+                "description": "Salsa de Queso Cheddar Derretido",
+                "price": "$400",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/cheddarfries_1616599460.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Ice Cream ",
+        "icon": " 🍦",
+        "backgroundimg":"",
+        "products": [
+            {
+                "id": 32,
+                "name": "Founders Favorite",
+                "description": "Un clásico de ColdStone. Delicioso helado de Crema con Nueces pacanas, Brownie, Manjar y Caramelo. ",
+                "price": "$2.200",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/founderfavorite_1619800049.jpg"
+            },
+            {
+                "id": 33,
+                "name": "Cake Batter Batter Batter",
+                "description": "Cremoso helado de bizcocho patentado por ColdStone, Pasta de galletas y Piezas de brownie. ",
+                "price": "$2.200",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/cakebatter_1619800080.jpg",
+                "Extras": [
+                    {"name": "Elige el tamaño de tu Helado ",
+                    "type": "select",
+                "options":["222 ml.", "946 ml" ]}
+                ]
+            },
+            {
+                "id": 34,
+                "name": "Dark Chocolate Devotion",
+                "description": "Helado de Chocolate con Chips de Chocolate, Brownie y Caramelo de azúcar. 220 ml.",
+                "price": "$2.200",
+                "imgProduct": "https://cdn.mer-cat.com/justburger/img/products/darkchocolate_1619800020.jpg"
+            }
+
+        ]
+    }
+]
